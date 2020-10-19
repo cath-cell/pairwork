@@ -1,0 +1,1 @@
+pyuic5 -o pair_work.py pair_work.ui

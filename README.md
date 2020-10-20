@@ -4,3 +4,4 @@
 3.pair_work.ui是Qt designer生成的ui文件，运行run.bat后自动生成pair_work.py文件。
 4.createproblem是自动生成题目的py文件。
 5.postproblem是post题目上去的算法。
+6.运行Windows即可开始玩游戏
